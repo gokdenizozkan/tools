@@ -1,0 +1,3 @@
+[submodule "dual-image-inspector"]
+	path = dual-image-inspector
+	url = https://github.com/gokdenizozkan/dual-image-inspector.git
