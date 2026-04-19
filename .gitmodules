@@ -1,3 +1,6 @@
 [submodule "dual-image-inspector"]
 	path = dual-image-inspector
 	url = https://github.com/gokdenizozkan/dual-image-inspector.git
+[submodule "image-annotator"]
+	path = image-annotator
+	url = git@github.com:gokdenizozkan/image-annotator.git
