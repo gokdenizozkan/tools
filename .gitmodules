@@ -4,3 +4,6 @@
 [submodule "image-annotator"]
 	path = image-annotator
 	url = git@github.com:gokdenizozkan/image-annotator.git
+[submodule "kpm2csv"]
+	path = kpm2csv
+	url = git@github.com:gokdenizozkan/kpm2csv.git
