@@ -7,3 +7,6 @@
 [submodule "kpm2csv"]
 	path = kpm2csv
 	url = git@github.com:gokdenizozkan/kpm2csv.git
+[submodule "text-to-json"]
+	path = text-to-json
+	url = git@github.com:gokdenizozkan/text-to-json.git
